@@ -1,13 +1,14 @@
 {
   "app": {
     "name": "Geely Matrix System",
-    "version": "3.0.0",
+    "version": "1.0.0",
     "buildTime": "2025-12-17 13:19:00",
     "env": "static",
     "description": "纯静态页面版本信息接口"
   }
 
 }
+
 
 
 
